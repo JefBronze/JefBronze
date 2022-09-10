@@ -5,14 +5,7 @@ Want to talk? Send me an e-mail: jefersonbronze@gmail.com
 
 <!-- Tecnologis que domino -->
 
-<br>
-  <img src="https://github-profile-trophy.vercel.app/?username=calebesg&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,typescript,css,html,react,next,redux,tailwind,sass,nodejs,express,mongo" />
-</a>
-<br>
-<br>
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
