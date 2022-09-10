@@ -5,7 +5,9 @@ Want to talk? Send me an e-mail: jefersonbronze@gmail.com
 
 <!-- Tecnologis que domino -->
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,typescript,css,html,react,next,redux,tailwind,sass,nodejs,express,mongo" />
+</a>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
