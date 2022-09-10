@@ -1,4 +1,5 @@
-Hi, I’m Jeferson Bronze
+### Hello, I’m Jeferson Bronze
+<hr>
 
 Want to talk? Send me an e-mail: jefersonbronze@gmail.com
 ... or just call me on my cell phone (🎶) +1 (438) 979-6085
