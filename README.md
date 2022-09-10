@@ -1,8 +1,10 @@
 ### Hello, I’m Jeferson Bronze
 <hr>
 
+<br>
 Want to talk? Send me an e-mail: jefersonbronze@gmail.com
 ... or just call me on my cell phone (🎶) +1 (438) 979-6085
+<br>
 
 <!-- Tecnologis que domino -->
 
