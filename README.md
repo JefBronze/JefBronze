@@ -6,7 +6,7 @@ Want to talk? Send me an e-mail: jefersonbronze@gmail.com
 <!-- Tecnologis que domino -->
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,typescript,css,html,react,next,redux,tailwind,sass,nodejs,express,mongo" />
+  <img src="https://skillicons.dev/icons?i=linux,git,vscode,cpp,css,html,javascript,typescript,nodejs,aws,mongodb" />
 </a>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
