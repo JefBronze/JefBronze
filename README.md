@@ -9,7 +9,7 @@
 <!-- Tecnologis que domino -->
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,linux,git,vim,vscode,cpp,css,html,javascript,typescript,nodejs,python,postgres,mongodb,docker,grafana,prometheus," />
+  <img src="https://skillicons.dev/icons?i=aws,linux,git,vim,vscode,cpp,css,html,nodejs,postgres,mongodb,docker,grafana,prometheus," />
 </a>
 <br>
 <br>
