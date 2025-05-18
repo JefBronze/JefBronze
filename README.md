@@ -21,17 +21,11 @@ I'm an energy engineer and software developer passionate about building innovati
 - TypeScript
 - GraphQL
 - Kubernetes
+- MCP  
 
 ## 📫 How to reach me
 [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat&logo=google-chrome)](https://jefersonbronze.com)
 
-## 💼 Projects
-Here are some projects I've been working on:
-
-- [Project 1](https://github.com/yourusername/project1) - Brief description
-- [Project 2](https://github.com/yourusername/project2) - Brief description
-- [Project 3](https://github.com/yourusername/project3) - Brief description
-
 ---
 
-⭐️ From [YourGitHubUsername](https://github.com/YourGitHubUsername)
+⭐️ From [YourGitHubUsername](https://github.com/JefBronze)
