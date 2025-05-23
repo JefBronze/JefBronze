@@ -28,4 +28,4 @@ I'm an energy engineer and software developer passionate about building innovati
 
 ---
 
-⭐️ From [YourGitHubUsername](https://github.com/JefBronze)
+⭐️ From JefBronze (https://github.com/JefBronze)
